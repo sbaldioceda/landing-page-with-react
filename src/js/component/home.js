@@ -10,7 +10,6 @@ export function Home() {
 	return (
 		<div>
 			<Navbar />
-
 			<div className="container">
 				<Jumbotron />
 				<div className="row">
